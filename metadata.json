@@ -1,0 +1,6 @@
+{
+  "name": "Money Management",
+  "description": "Track daily expenses, manage monthly budgets, track recurring bills, and visualize savings goals with interactive financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
